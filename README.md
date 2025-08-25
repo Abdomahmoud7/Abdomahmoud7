@@ -17,9 +17,9 @@
 ## 🔧 Technical Skills
 
 🧠 **Languages:** Python, SQL, C++, Java  
-🛠️ **Libraries & Tools:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, Streamlit, NLTK, spaCy, Transformers, FastAPI, Flask  
-🚀 **Deployment & Cloud:** Streamlit, Docker, Hugging Face Spaces, GitHub Actions  
-🧬 **AI/ML Areas:** Machine Learning, Deep Learning, NLP, LLMs, RAG, MLOps, Agentic RAG, Ai Agents 
+🛠️ **Libraries & Tools:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV, Streamlit, NLTK, spaCy, Transformers, FastAPI, Flask  
+🚀 **Deployment & Cloud:** Streamlit, Docker, Hugging Face Spaces, GitHub Actions
+🧬 **AI/ML Areas:** Machine Learning, Deep Learning, NLP, LLMs, RAG, MLOps, Agentic RAG, Ai Agents
 🤝 **Soft Skills:** Problem Solving, Communication, Adaptability
 
 ---
