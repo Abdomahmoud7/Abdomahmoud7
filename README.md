@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNncmdwMDJjY2MydzQ5YnVoNTZseWlzemYxMDBoNDFzNnZreWY3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="GIF" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNncmdwMDJjY2MydzQ5YnVoNTZseWlzemYxMDBoNDFzNnZreWY3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="GIF" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Abdeltawab Mahmoud</h1>
